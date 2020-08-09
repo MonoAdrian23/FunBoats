@@ -1,0 +1,6 @@
+---
+name: FunBoats
+version: 0.0.1
+main: MonoAdrian23\FunBoats\Main
+api: 3.12.0
+...
