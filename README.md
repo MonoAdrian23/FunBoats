@@ -2,5 +2,7 @@
 Füge deinem PocketmineMP Server funktionierende Boote hinzu.
 
 Dieses Plugins fügt Boote deinem Server hinzu.
-Derzeit ist dieses Plugin privat und noch in Entwicklung!
+Installiere die .phar Datei auf deinem PocketmineMP Server.
+Restarte den Server!
+Schau im Spiel vorbei und sieh wie du Boote aller Arten verwenden kannst.
 
